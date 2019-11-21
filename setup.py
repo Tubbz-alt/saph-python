@@ -32,10 +32,10 @@ setup(
 		'License :: Freely Distributable'
 	],
 
-	url='https://github.com/socram8888/saph-py',
+	url='https://github.com/socram8888/saph-python',
 	project_urls={
-		'Bug Tracker': 'https://github.com/socram8888/saph-py/issues',
-		'Source Code': 'https://github.com/socram8888/saph-py'
+		'Bug Tracker': 'https://github.com/socram8888/saph-python/issues',
+		'Source Code': 'https://github.com/socram8888/saph-python'
 	},
 
 	author='Marcos Del Sol Vives',
