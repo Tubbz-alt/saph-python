@@ -15,9 +15,10 @@ def read(file):
 setup(
 	name='saph',
 	packages=['saph'],
-	version='0.1',
+	version='1.0',
 	install_requires=[
-		'pycryptodome',
+		# PyCryptodrome, at least the first version having "output" parameter in .encrypt()
+		'pycryptodome>=3.7.0',
 	],
 
 	license='WTFPL',
